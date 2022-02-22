@@ -1,0 +1,63 @@
+#mapouter {
+  top: 200px;
+  left: -1300px;
+}
+.mapouter {
+  position: fixed;
+  top: 460px;
+  left: 1290px;
+}
+#kostadinkostov {
+  top: 1px;
+}
+  .picture {
+    top:
+}
+*{
+  @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap%27);
+    margin:0;
+    padding:0;
+    font-family:verdana;
+  }
+  #kostadinkostov{ 
+    position:center; 
+    left: -1px;
+    top: 1px;
+    right: -1355px;
+    opacity: 100%;
+  }
+  .picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2.5%;
+    top: 30px;
+    left: -1330px;
+    right: 60px;
+    position: absolute;
+    position:fixed;
+  }
+  .right { 
+    text-align: right; 
+  } 
+  h2 {
+    color: #FFFFFF;
+  }
+  #pompataimg{ 
+    position:center; 
+    left: 750px;
+    top: 1px;
+    opacity: 100%;
+  }
+  .pompatapicture{
+    display: block;
+    maring-left: auto;
+    margin-right: auto;
+    width: 2.5%
+    top: 30px;
+    left: -1100px;
+    right: 60px;
+    position: absolute;
+    position: fixed;
+  }
+}
