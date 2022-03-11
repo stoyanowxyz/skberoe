@@ -1,2 +1,2 @@
 #skberoe
-#Link of the website https://beroe-kickboxing.com/
+Link of the website https://beroe-kickboxing.com/
